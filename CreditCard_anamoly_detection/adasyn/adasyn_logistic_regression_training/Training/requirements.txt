@@ -1,0 +1,6 @@
+imblearn
+boto3
+requests
+sklearn
+joblib
+pandas
